@@ -1,0 +1,27 @@
+{
+  "name": "5117-10-18-2016",
+  "version": "1.0.0",
+  "description": "Code samples from 10/18 -- testing web apis",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "request": "^2.75.0",
+    "supertest": "^2.0.0",
+    "supertest-as-promised": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umn-5117-f16/5117-10-18-2016.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umn-5117-f16/5117-10-18-2016/issues"
+  },
+  "homepage": "https://github.com/umn-5117-f16/5117-10-18-2016#readme"
+}
